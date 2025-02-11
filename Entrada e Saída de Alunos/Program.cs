@@ -30,6 +30,11 @@ class Program
                 Console.Clear();
                 Administrador();
             }
+            else if (opcao == "Sair")
+            {
+                Console.Clear();
+                return;
+            }
         }
     }
 
