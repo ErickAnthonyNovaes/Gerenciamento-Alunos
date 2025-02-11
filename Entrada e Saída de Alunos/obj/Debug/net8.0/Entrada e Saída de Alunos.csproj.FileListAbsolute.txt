@@ -1,0 +1,21 @@
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Entrada e Saída de Alunos.exe
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Entrada e Saída de Alunos.deps.json
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Entrada e Saída de Alunos.runtimeconfig.json
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Entrada e Saída de Alunos.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Entrada e Saída de Alunos.pdb
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Spectre.Console.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\Spectre.Console.Cli.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.csproj.AssemblyReference.cache
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.AssemblyInfoInputs.cache
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.AssemblyInfo.cs
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.csproj.CoreCompileInputs.cache
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada .874C853C.Up2Date
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\refint\Entrada e Saída de Alunos.dll
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.pdb
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\Entrada e Saída de Alunos.genruntimeconfig.cache
+C:\Projetos C# (Aulas)\Hackathon\Entrada e Saída de Alunos\obj\Debug\net8.0\ref\Entrada e Saída de Alunos.dll

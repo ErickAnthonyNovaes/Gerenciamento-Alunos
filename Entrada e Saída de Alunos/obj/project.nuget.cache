@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+og3+AfCkM=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos C# (Aulas)\\Hackathon\\Entrada e Saída de Alunos\\Entrada e Saída de Alunos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick Anthony Novaes\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\Erick Anthony Novaes\\.nuget\\packages\\spectre.console.cli\\0.49.1\\spectre.console.cli.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
